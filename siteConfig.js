@@ -1,46 +1,46 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://healthsmartbendigo.com.au/",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "healthsmartbendigo",
   siteDescriptionMeta:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "✔ HealthSmart® supports a healthy lifestyle for you and your family. We believe in providing quality products and services for all ages and medical conditions that allow our customers to live life to the full",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
+  shortTitle: "healthsmartbendigo",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
-  apiUrl: "https://ghost.theasdfghjkl.com",
+  apiUrl: "https://healthreporter.com.au",
   header: {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://ghost-novela-preview.healthsmartbendigo.co/contact",
       },
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "healthsmartbendigo teleheath",
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://ghost-novela-preview.healthsmartbendigo.co/",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://ghost-novela-preview.healthsmartbendigo.co/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
+        url: "https://ghost-novela-preview.healthsmartbendigo.co/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://ghost-novela-preview.healthsmartbendigo.co/contact",
       },
       {
         label: "External Link",
@@ -50,16 +50,16 @@ module.exports = {
   },
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Built with Draftbox",
+    title: "Subscribe to healthsmartbendigo teleheath",
     helpText: "Get the latest posts delivered right to your inbox.",
-    successMessage: "Thanks for subscribing to Built with Draftbox.",
+    successMessage: "Thanks for subscribing to healthsmartbendigo teleheath.",
   },
   socialLinks: {
-    twitter: "https://twitter.com/draftboxhq",
+    twitter: "https://twitter.com/healthsmartbendigohq",
     facebook: "https://facebook.com/",
     instagram: "https://www.instagram.com/",
     linkedin: "https://linkedin.com",
-    github: "https://github.com/draftbox-co",
+    github: "https://github.com/healthsmartbendigo-co",
     pinterest: "",
     youtube: "",
     dribbble: "",
@@ -68,37 +68,37 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Contact healthsmartbendigo teleheath",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "healthsmartbendigo teleheath",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. healthsmartbendigo is a new-age blogging platform for everyone, built on Gatsby.",
   },
   twitterCard: {
-    title: "Built with Draftbox",
+    title: "healthsmartbendigo teleheath",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. healthsmartbendigo is a new-age blogging platform for everyone, built on Gatsby.",
     imageUrl: "twitterImage.png",
-    username: "@DraftboxHQ",
+    username: "@healthsmartbendigoHQ",
   },
   facebookCard: {
-    title: "Built with Draftbox",
+    title: "healthsmartbendigo teleheath",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. healthsmartbendigo is a new-age blogging platform for everyone, built on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "",
     width: 1000,
     height: 523,
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "healthsmartbendigo teleheath",
   siteDescription:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   language: "en",
   logoUrl: "logo.svg",
   iconUrl:
-    "https://ghost.theasdfghjkl.com/content/images/2020/05/draftbox-colored-icon.png",
+    "https://ghost.theasdfghjkl.com/content/images/2020/05/healthsmartbendigo-colored-icon.png",
   coverUrl: "cover.jpg",
   alternateLogoUrl: "alternateLogo.svg",
   themeConfig: {
