@@ -74,19 +74,20 @@ module.exports = {
   metadata: {
     title: "healthsmartbendigo teleheath",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. healthsmartbendigo is a new-age blogging platform for everyone, built on Gatsby.",
+      "HealthSmart® supports a healthy lifestyle for you and your family. We believe in providing quality products and services for all ages and medical conditions that allow our customers to live life to the full. Whether you’re an expectant or a new mother, have suffered an illness or injury, or simply seeking medical or health and wellbeing advice, we are here to help. Our friendly proprietors are Joseph Tesoriero (Alfred Hospital), Anthony Hrysoudis (RMH), and Bill Diamantaras (Victoria Parade).  Together with their trained staff they can assist you with finding the right product or treatment program that best suits your needs. We have excellent relationships with hospital and community pharmaceutical suppliers – if we don’t have a product on the shelf we will do our very best to source it for you as soon as possible. Delivery is usually same day or within 24 hours! We have treatments to suit in-house patients, outpatients, local residents, hospital staff, and pharmaceutical and health providers who are seeking specialist medications.",
   },
   twitterCard: {
     title: "healthsmartbendigo teleheath",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. healthsmartbendigo is a new-age blogging platform for everyone, built on Gatsby.",
+      "Rest easy, knowing that we have a full range of mother care products and services to assist you in preparing for birth, or for your newborn bundle of joy.
+",
     imageUrl: "twitterImage.png",
     username: "@healthsmartbendigoHQ",
   },
   facebookCard: {
     title: "healthsmartbendigo teleheath",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. healthsmartbendigo is a new-age blogging platform for everyone, built on Gatsby.",
+      " Together with their trained staff they can assist you with finding the right product or treatment program that best suits your needs. We have excellent relationships with hospital and community pharmaceutical suppliers – if we don’t have a product on the shelf we will do our very best to source it for you as soon as possible. Delivery is usually same day or within 24 hours! We have treatments to suit in-house patients, outpatients, local residents, hospital staff, and pharmaceutical and health providers who are seeking specialist medications.",
     imageUrl: "facebookImage.png",
     appId: "",
     width: 1000,
@@ -94,7 +95,7 @@ module.exports = {
   },
   siteTitle: "healthsmartbendigo teleheath",
   siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    " We believe in providing quality products and services for all ages and medical conditions that allow our customers to live life to the full. Whether you’re an expectant or a new mother, have suffered an illness or injury, or simply seeking medical or health and wellbeing advice, we are here to help. Our friendly proprietors are Joseph Tesoriero (Alfred Hospital), Anthony Hrysoudis (RMH), and Bill Diamantaras (Victoria Parade).  Together with their trained staff they can assist you with finding the right product or treatment program that best suits your needs. We have excellent relationships with hospital and community pharmaceutical suppliers – if we don’t have a product on the shelf we will do our very best to source it for you as soon as possible. Delivery is usually same day or within 24 hours! We have treatments to suit in-house patients, outpatients, local residents, hospital staff, and pharmaceutical and health providers who are seeking specialist medications.",
   language: "en",
   logoUrl: "logo.svg",
   iconUrl:
