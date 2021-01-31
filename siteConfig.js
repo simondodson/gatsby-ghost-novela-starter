@@ -79,8 +79,7 @@ module.exports = {
   twitterCard: {
     title: "healthsmartbendigo teleheath",
     description:
-      "Rest easy, knowing that we have a full range of mother care products and services to assist you in preparing for birth, or for your newborn bundle of joy.
-",
+      "Rest easy, knowing that we have a full range of mother care products and services to assist you in preparing for birth, or for your newborn bundle of joy.",
     imageUrl: "twitterImage.png",
     username: "@healthsmartbendigoHQ",
   },
